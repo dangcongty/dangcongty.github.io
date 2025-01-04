@@ -7,7 +7,7 @@ layout: default
 ## Neural Networks
 ## Deep Learning
 ## Algorithms
-* Image color spaces
+* [Image color spaces](./AI/MinimumSpanningTree.html)
 * Interpolation
 * Minimum Spanning Tree (MST)
 * Graph Partitioning Algorithms
