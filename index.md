@@ -6,5 +6,13 @@ layout: default
 # Mục lục
 ## Neural Networks
 ## Deep Learning
-## Image Processing
 ## Algorithms
+* Image color spaces
+* Interpolation
+* Minimum Spanning Tree (MST)
+* Graph Partitioning Algorithms
+* Deep First Search Traversal
+* Breadth First Search Traversal
+* Graph-Based Image Segmentation
+* Selective Search
+* Histogram
